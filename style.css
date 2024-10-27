@@ -1,1 +1,16 @@
-h2 {color:#8390faff;}
+body {background-color: #E5F9E0;}
+nav{background-color: aliceblue;}
+h2 {
+  color:#0b7189ff;
+}
+.box {position: relative;
+}
+.text
+{position:absolute
+ bottom: 20px;
+ right: 20px
+ background-color: blue;
+ color: white;
+ padding-left: 20px;
+ padding-right: 20px;
+}
