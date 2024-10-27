@@ -1,16 +1,8 @@
 body {background-color: #E5F9E0;}
-nav{background-color: aliceblue;}
+nav{background-color: aliceblue;
+font-size: large;
+font-family: Impact;
+}
 h2 {
-  color:#0b7189ff;
-}
-.box {position: relative;
-}
-.text
-{position:absolute
- bottom: 20px;
- right: 20px
- background-color: blue;
- color: white;
- padding-left: 20px;
- padding-right: 20px;
+  color:rgb(81, 191, 216);
 }
